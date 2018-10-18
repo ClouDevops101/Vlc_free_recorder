@@ -10,12 +10,17 @@ HOW It WORKS
 
 Requierements
 ================
+Install  EPEL   from   https://www.unixmen.com/install-epel-repository-centos-rhel-7/
+```bash
 
+rpm -Uvh http://li.nux.ro/download/nux/dextop/el7/x86_64/nux-dextop-release-0-1.el7.nux.noarch.rpm
+```
 Installation
 ================
 
 ```python
-
+yum update
+yum  install vlc
 ```
 Befor use
 ================
