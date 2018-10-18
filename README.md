@@ -22,7 +22,7 @@ Installation
 yum update
 yum  install vlc
 ```
-Befor use
+Before use
 ================
 
 ```python
